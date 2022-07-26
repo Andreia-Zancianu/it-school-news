@@ -2,7 +2,7 @@
 My React project in which news is displayed in different categories.
 # Demo
 The project is deployed here: https://it-school-news-az.netlify.app
-# Features
+# Main features
 * [The Guardian API](https://open-platform.theguardian.com/documentation/) was used to display the news
 * Display news by different categories
 * Display a particular news item
